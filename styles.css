@@ -19,7 +19,7 @@ body {
     border: 1px solid black;
     padding: 5px;
     margin: 5px;
-    background-color: gray;
+    background-color: rgb(175, 175, 175)
 }
 
 .menu-title {
